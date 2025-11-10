@@ -1,0 +1,17 @@
+{
+  "ACTION": "set",
+  "DATA": {
+    "id": "0_Prueba_informe_0",
+    "cp": "3260",
+    "CUIT": "30-11111111-8",
+    "domicilio": "25 de Mayo 8888",
+    "idreq": "473",
+    "idSeq": "1146",
+    "localidad": "Concepcion del Uruguay",
+    "provincia": "Entre Rios",
+    "sede": "FCyT",
+    "seqID": "23",
+    "telefono": "03442-444444",
+    "web": "http://www.uader.edu.ar"
+  }
+}
